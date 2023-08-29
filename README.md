@@ -1,6 +1,6 @@
 Olá, sou o João Victor 
 - 🖥️ Estudo o mundo front-end, e busco minha primeira oportunidade como desenvolvedor!
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas (
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas 
 - 📧 E-mail: jvictorvieira97@gmail.com
 - 🌱 LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-victor-vieiras/](https://www.linkedin.com/in/jo%C3%A3o-victor-vieiras/)
 
