@@ -21,7 +21,7 @@ Olá, sou o João Victor
   <a href = "mailto:isabellagouveias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   <br>
-  <b>Technologies</b> used in my <b>daily life</b><br>
+  <b>Tecnologias</b> que estudo no meu <b>dia a dia</b><br>
   <br>
   
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b13850a6f42b0112d7e2ad38cd92369a98de372c8734d8b9334644c36b77f4ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><br>
